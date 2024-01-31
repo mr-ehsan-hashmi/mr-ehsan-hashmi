@@ -69,5 +69,5 @@ If you're looking to discuss tech, collaborate on projects, or just say hi, feel
 
 - 📱 Mobile: `+923097418747`
 - 📧 Email: [ehsantariq785@gmail.com](mailto:ehsantariq785@gmail.com)
-- 💬 WhatsApp: `+923044796010`
+- 💬 WhatsApp: `+923097418747`
 - [![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your-LinkedIn-URL)
