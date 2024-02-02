@@ -4,13 +4,23 @@ I'm a passionate Full stack Developer with over 6 years of experience specializi
 
 ## Tech Stack 🚀
 
-## Backend & Database 💾
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) - A framework for building efficient, reliable and scalable server-side applications.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) - A powerful, open source object-relational database system with over 30 years of active development.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) - A query language for your API, and a server-side runtime for executing queries by using a type system you define for your data.
+
+## Other Backend Technologies & Libraries 🛠️
+
+- **Apollo Server**: An open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client.
+- **TypeORM**: An ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
+- **Sequelize**: A promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite, and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more.
+- **Mongoose**: An elegant mongodb object modeling for node.js.
+- **Passport**: Simple, unobtrusive authentication for Node.js.
 
 ## Frontend Technologies 🖥️
 
