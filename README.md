@@ -63,23 +63,35 @@ I'm a passionate Full stack Developer with over 6 years of experience specializi
 
 ## Frontend Proficiencies 🎨
 
-- Advanced knowledge and experience with **React.js**, **Next.js**, and state management using **Redux**.
-- Competent in crafting responsive UIs with **HTML** and modern CSS techniques.
-- Skilled in integrating APIs and utilizing client-side data management tools like **React Query**.
+- **Advanced knowledge and experience with React.js, Next.js,** and state management using **Redux** for dynamic web applications.
+- **Competent in crafting responsive UIs** with HTML and modern CSS techniques, ensuring optimal user experience across devices.
+- **Skilled in integrating APIs** and utilizing client-side data management tools like **React Query** for efficient data fetching and state management.
 
 ## Backend & Database 💾
 
-- Proficient in building server-side applications with **Node.js**, **NestJS**, **Redis**, **GraphQL** and **Express** .
-- Experienced in database management with both **MongoDB**, **PostgreSQL** and **MySQL**.
+- **Proficient in building server-side applications** with **Node.js, NestJS, Redis, GraphQL,** and **Express**, creating robust and scalable backend solutions.
+- **Experienced in database management** with both **MongoDB, PostgreSQL,** and **MySQL**, ensuring data integrity and performance.
+
+## Blockchain Technologies 🔗
+
+- **Expertise in Smart Contracts development** using **Solidity**, enabling secure and automated contractual agreements.
+- **Proficient with blockchain integration** using **Web3.js and Ethers.js**, facilitating interactions between web applications and blockchain networks.
+- **Experienced in developing and deploying Decentralized Applications (DApps)** on Ethereum and other blockchain platforms, offering innovative solutions beyond traditional web.
+- **Knowledgeable in NFT (Non-Fungible Token) standards** and implementations, catering to the growing digital assets market.
 
 ## Analytics & SEO Tools 📈
 
-- Familiar with **Google Analytics** for tracking and reporting website traffic.
-- Proficient with **Google Tag Manager** for SEO optimization and marketing strategies.
+- **Familiar with Google Analytics** for tracking and reporting website traffic, understanding user behavior to enhance site performance.
+- **Proficient with Google Tag Manager** for SEO optimization and marketing strategies, maximizing online visibility and engagement.
 
 ## Maps & Geolocation 🌍
 
-- Capable of integrating **Google Maps** for geolocation and mapping solutions.
+- **Capable of integrating Google Maps** for geolocation and mapping solutions, enhancing user interaction with location-based services.
+
+---
+
+Leveraging this comprehensive skill set, I am committed to delivering cutting-edge solutions that blend the latest in web development and blockchain technology, ensuring your project not only meets but surpasses expectations. Let's create something innovative together!
+
 
 ## Let's Connect 🤝
 
