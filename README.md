@@ -62,8 +62,8 @@ I'm a passionate Full stack Developer with over 6 years of experience specializi
 
 ## Backend & Database 💾
 
-- Proficient in building server-side applications with **Node.js** and **Express**.
-- Experienced in database management with both **MongoDB** and **MySQL**.
+- Proficient in building server-side applications with **Node.js**, **NestJS**, **Redis**, **GraphQL** and **Express** .
+- Experienced in database management with both **MongoDB**, **PostgreSQL** and **MySQL**.
 
 ## Analytics & SEO Tools 📈
 
