@@ -14,6 +14,8 @@ I'm a passionate Full stack Developer with over 6 years of experience specializi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![Strapi](https://img.shields.io/badge/Strapi-8E75FF?style=for-the-badge&logo=strapi&logoColor=white)
+
 
 ### Blockchain Technologies 🌐
 
