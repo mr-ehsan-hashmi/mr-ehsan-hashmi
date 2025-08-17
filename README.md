@@ -1,6 +1,6 @@
 # Hi there, I'm Ehsan 👋
 
-I'm a passionate Full stack Developer with over 6 years of experience specializing in the MERN stack. Here's a quick overview of my technical skills:
+I'm a passionate Full stack Developer with over 8 years of experience specializing in the MERN stack. Here's a quick overview of my technical skills:
 
 ## Tech Stack 🚀
 
